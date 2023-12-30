@@ -15,10 +15,11 @@ Under the python "pandas" (pip3 install pandas) modules are required to load.
 ## After downloading the pipeline package, you need to follow the steps below one by one.
 
 Step 1: Downloaded Python scripts to a desired location on your computer
-      cd /working-directory
+          
+          cd /working-directory
 
 Step 2: Preparing the Input Data Before running the pipeline, make sure you have the following input data ready
-    input.fasta
+        input.fasta
 
 Step 3: Now Run the Pipeline Follow these steps to run the SSRmine:
 
@@ -27,7 +28,8 @@ Step 3: Now Run the Pipeline Follow these steps to run the SSRmine:
 2: Navigate to the directory where the pipeline is installed.
 
 3: Execute the pipeline script using the following command:
-    phthon3 ssrmine.py <input.fasta>
+
+        phthon3 ssrmine.py <input.fasta>
 
 
 # Developed by:
