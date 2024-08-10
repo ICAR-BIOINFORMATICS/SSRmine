@@ -29,7 +29,7 @@ Step 3: Now Run the Pipeline Follow these steps to run the SSRmine:
 
 3: Execute the pipeline script using the following command:
 
-        phthon3 ssrmine.py <input.fasta>
+        python3 ssrmine.py <input.fasta>
 
 
 # Developed by:
